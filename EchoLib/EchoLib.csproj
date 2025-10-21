@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<PackageId>EchoLib</PackageId>
+	<PackageId>EchoLib.TypeEcho</PackageId>
 	<Version>1.0.0</Version>
 	<Authors>TypeEcho</Authors>
 	<Description>A library that adds functions, extensions, and new classes.</Description>
